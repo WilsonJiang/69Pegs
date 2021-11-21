@@ -1,1 +1,1 @@
-# 69Pegs
+# SixNinePeg App Guide
