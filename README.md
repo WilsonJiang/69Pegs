@@ -1,2 +1,2 @@
 # 6&9Pegs App Guide
-## 4 round of test
+## Incuding 4 rounds of peg test
