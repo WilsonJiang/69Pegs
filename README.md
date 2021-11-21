@@ -6,7 +6,6 @@
 * Memory peg test 記憶測驗
 ---
 ## Home Page 首頁
-
-```
-大區塊
-```
+1. Click on 點擊"選擇測驗"
+2. Select test 選擇測驗階段
+3. Get to the test page 畫面會跳轉至所選測驗
