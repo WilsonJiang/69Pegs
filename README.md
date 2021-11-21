@@ -10,10 +10,36 @@
 2. Select test 選擇測驗階段
 3. Get to the test page 畫面會跳轉至所選測驗
 ---
-## test 1 測驗一
+## Test 1 測驗一
 1. Click on 點擊"連接機台"
 2. Get connected 顯示連接成功
 3. Click on start button 點擊"開始測驗"
 4. Complete all the peg placement 完成所有Peg放置
 5. Done test or restart 完成測驗，或重新測驗
 ---
+## Test 2 測驗二
+1. Click on 點擊"連接機台"
+2. Get connected 顯示連接成功
+3. Click on start button 點擊"開始測驗"
+4. Complete all the peg placement 完成所有Peg放置
+5. Done test or restart 完成測驗，或重新測驗
+---
+## Test 3 測驗三
+1. Click on 點擊"連接機台"
+2. Get connected 顯示連接成功
+3. Click on start button 點擊"開始測驗"
+4. Complete all the peg placement 完成所有Peg放置
+5. Done test or restart 完成測驗，或重新測驗
+---
+## Test 4 測驗四
+1. Click on 點擊"選擇數量"
+2. Select number of pegs 選擇Peg數量
+3. Click on 點擊"產生題目"
+4. Click on 點擊"前往測驗" or generate again 或重新產生題目
+5. Click on 點擊"連接機台"
+7. Get connected 顯示連接成功
+8. Click on start button 點擊"開始測驗"
+9. Complete all the peg placement 完成所有Peg放置
+10. Done test or restart 完成測驗，或重新測驗
+---
+
