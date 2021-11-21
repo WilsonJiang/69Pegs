@@ -10,7 +10,7 @@
 2. Select test 選擇測驗階段
 3. Get to the test page 畫面會跳轉至所選測驗
 ---
-## Test 1~3 測驗一~三
+## Test 1-3 測驗一-三
 1. Click on 點擊"連接機台"
 2. Get connected 顯示連接成功
 3. Click on start button 點擊"開始測驗"
